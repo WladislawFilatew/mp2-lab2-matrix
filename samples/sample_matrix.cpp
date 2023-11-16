@@ -8,7 +8,7 @@
 #include <string>
 #include <conio.h>
 #include <functional>
-#include "tmatrix.h"
+#include "..\include\tmatrix.h"
 
 
 
